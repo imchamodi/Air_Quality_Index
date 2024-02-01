@@ -1,5 +1,7 @@
-Identified significantly associated predictor variables for determining the Air Passenger Satisfaction.
+Web scrape variables that are important to predict AQI (Variables other than those included in the Dataset) 
 
-Constructed accurate models to predict Air Passenger Satisfaction using machine learning techniques.
+Identified significantly associated predictor variables for determining the Air Quality Index.
 
-Developed a user-friendly web app for predicting Air Passenger Satisfaction based on user inputs.
+Constructed accurate models to predict AQI using machine learning techniques.
+
+Developed a user-friendly  web app for predicting AQI based on user inputs.
